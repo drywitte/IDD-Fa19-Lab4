@@ -85,7 +85,7 @@ void loop() {
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+[Semi working puppet](https://photos.app.goo.gl/ALAkufKfop4JGE9v9)
 
 ## Part E. Make it your own
 
